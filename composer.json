@@ -1,0 +1,13 @@
+{
+    "name": "invise/sleek-ponty",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Andreas Lagerkvist",
+            "email": "powerbuoy@gmail.com"
+        }
+    ],
+    "autoload": {
+        "files": ["sleek-ponty.php"]
+    }
+}

@@ -1,1 +1,3 @@
-# ponty-connector
+# Sleek Ponty
+
+Our Ponty modifications.
